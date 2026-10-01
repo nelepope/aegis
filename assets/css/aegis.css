@@ -1,0 +1,155 @@
+/* Theme fonts (self-hosted, OFL licence) */
+@font-face{font-family:'Josefin Sans';font-style:normal;font-weight:300;font-display:swap;src:url('/assets/fonts/josefin-sans-latin-300-normal.woff2') format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:'Josefin Sans';font-style:normal;font-weight:300;font-display:swap;src:url('/assets/fonts/josefin-sans-latin-ext-300-normal.woff2') format('woff2');unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}
+@font-face{font-family:'Josefin Sans';font-style:italic;font-weight:300;font-display:swap;src:url('/assets/fonts/josefin-sans-latin-300-italic.woff2') format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:'Josefin Sans';font-style:italic;font-weight:300;font-display:swap;src:url('/assets/fonts/josefin-sans-latin-ext-300-italic.woff2') format('woff2');unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}
+@font-face{font-family:'Josefin Sans';font-style:normal;font-weight:400;font-display:swap;src:url('/assets/fonts/josefin-sans-latin-400-normal.woff2') format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:'Josefin Sans';font-style:normal;font-weight:400;font-display:swap;src:url('/assets/fonts/josefin-sans-latin-ext-400-normal.woff2') format('woff2');unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}
+@font-face{font-family:'Josefin Sans';font-style:normal;font-weight:700;font-display:swap;src:url('/assets/fonts/josefin-sans-latin-700-normal.woff2') format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:'Josefin Sans';font-style:normal;font-weight:700;font-display:swap;src:url('/assets/fonts/josefin-sans-latin-ext-700-normal.woff2') format('woff2');unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}
+@font-face{font-family:'Josefin Sans';font-style:italic;font-weight:700;font-display:swap;src:url('/assets/fonts/josefin-sans-latin-700-italic.woff2') format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:'Josefin Sans';font-style:italic;font-weight:700;font-display:swap;src:url('/assets/fonts/josefin-sans-latin-ext-700-italic.woff2') format('woff2');unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}
+@font-face{font-family:'Instrument Serif';font-style:normal;font-weight:400;font-display:swap;src:url('/assets/fonts/instrument-serif-latin-400-normal.woff2') format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:'Instrument Serif';font-style:normal;font-weight:400;font-display:swap;src:url('/assets/fonts/instrument-serif-latin-ext-400-normal.woff2') format('woff2');unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}
+@font-face{font-family:'Instrument Serif';font-style:italic;font-weight:400;font-display:swap;src:url('/assets/fonts/instrument-serif-latin-400-italic.woff2') format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:'Instrument Serif';font-style:italic;font-weight:400;font-display:swap;src:url('/assets/fonts/instrument-serif-latin-ext-400-italic.woff2') format('woff2');unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}
+@font-face{font-family:'Newsreader';font-style:normal;font-weight:400;font-display:swap;src:url('/assets/fonts/newsreader-latin-400-normal.woff2') format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:'Newsreader';font-style:normal;font-weight:400;font-display:swap;src:url('/assets/fonts/newsreader-latin-ext-400-normal.woff2') format('woff2');unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}
+@font-face{font-family:'Newsreader';font-style:italic;font-weight:400;font-display:swap;src:url('/assets/fonts/newsreader-latin-400-italic.woff2') format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:'Newsreader';font-style:italic;font-weight:400;font-display:swap;src:url('/assets/fonts/newsreader-latin-ext-400-italic.woff2') format('woff2');unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}
+@font-face{font-family:'Newsreader';font-style:normal;font-weight:700;font-display:swap;src:url('/assets/fonts/newsreader-latin-700-normal.woff2') format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:'Newsreader';font-style:normal;font-weight:700;font-display:swap;src:url('/assets/fonts/newsreader-latin-ext-700-normal.woff2') format('woff2');unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}
+@font-face{font-family:'Newsreader';font-style:italic;font-weight:700;font-display:swap;src:url('/assets/fonts/newsreader-latin-700-italic.woff2') format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:'Newsreader';font-style:italic;font-weight:700;font-display:swap;src:url('/assets/fonts/newsreader-latin-ext-700-italic.woff2') format('woff2');unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}
+
+/* ÆGIS custom fonts (uploaded to Squarespace originally) */
+@font-face{font-family:'EDITORS NOTE THIN';src:url('/assets/fonts/editorsnotetext-thin-webfont.woff') format('woff');font-display:swap}
+@font-face{font-family:'EDITORS NOTE REGULAR';src:url('/assets/fonts/editorsnotetext-regular-webfont.woff') format('woff');font-display:swap}
+@font-face{font-family:'EDITORS NOTE THIN ITALIC';src:url('/assets/fonts/editorsnotetext-thinitalic-webfont.woff') format('woff');font-display:swap}
+@font-face{font-family:'EDITORS NOTE BOLD';src:url('/assets/fonts/editorsnotetext-bold-webfont.woff') format('woff');font-display:swap}
+@font-face{font-family:'EDITORS NOTE REGULAR ITALIC';src:url('/assets/fonts/editorsnotetext-italic-webfont.woff') format('woff');font-display:swap}
+@font-face{font-family:'Medino';src:url('/assets/fonts/Medino-Regular.otf') format('opentype');font-display:swap}
+@font-face{font-family:'Josefin';src:url('/assets/fonts/JosefinSans-Light.ttf') format('truetype');font-display:swap}
+@font-face{font-family:'Josefin light';src:url('/assets/fonts/JosefinSans-ExtraLight.ttf') format('truetype');font-display:swap}
+
+/* ---- Custom CSS carried over from Squarespace ---- */
+.product-title,.product-title h1,.ProductItem-details .ProductItem-details-title,.ProductItem-details-title h1,[data-test="product-title"]{font-family:'EDITORS NOTE THIN',sans-serif !important}
+.product-price,.ProductItem-details-checkout .product-price,.ProductItem-details-checkout-price,.product-price span,[data-test="product-price"]{font-family:'EDITORS NOTE THIN',sans-serif !important}
+.grid-item-title{font-family:'EDITORS NOTE REGULAR',sans-serif !important}
+h1{font-family:'EDITORS NOTE THIN'}
+h2{font-family:'EDITORS NOTE THIN'}
+h3{font-family:'EDITORS NOTE THIN ITALIC'}
+p{font-family:'Josefin light'}
+.homepage .header-title-logo{display:none !important}
+.sqs-native-video .native-video-player{padding-bottom:100% !important}
+#block-cc3903edbf7662a428a8{opacity:0;-webkit-transition:opacity .5s ease-in-out;-moz-transition:opacity .5s ease-in-out;transition:opacity .5s ease-in-out}
+#block-cc3903edbf7662a428a8:hover{opacity:1}
+#block-97c1c9542d0d9cfda145{opacity:0;-webkit-transition:opacity .5s ease-in-out;-moz-transition:opacity .5s ease-in-out;transition:opacity .5s ease-in-out}
+#block-97c1c9542d0d9cfda145:hover{opacity:1}
+#block-d816242c705daad57a62{opacity:0;-webkit-transition:opacity .5s ease-in-out;-moz-transition:opacity .5s ease-in-out;transition:opacity .5s ease-in-out}
+#block-d816242c705daad57a62:hover{opacity:1}
+#block-d7984f2c80fb0b659d11{opacity:0;-webkit-transition:opacity .5s ease-in-out;-moz-transition:opacity .5s ease-in-out;transition:opacity .5s ease-in-out}
+#block-d7984f2c80fb0b659d11:hover{opacity:1}
+#block-7fa35c47b72b42e34ebd{opacity:0;-webkit-transition:opacity .5s ease-in-out;-moz-transition:opacity .5s ease-in-out;transition:opacity .5s ease-in-out}
+#block-7fa35c47b72b42e34ebd:hover{opacity:1}
+#block-f8b9146232f5bbd2d216{opacity:0;-webkit-transition:opacity .5s ease-in-out;-moz-transition:opacity .5s ease-in-out;transition:opacity .5s ease-in-out}
+#block-f8b9146232f5bbd2d216:hover{opacity:1}
+#block-yui_3_17_2_1_1765199641025_6085{opacity:0;-webkit-transition:opacity .5s ease-in-out;-moz-transition:opacity .5s ease-in-out;transition:opacity .5s ease-in-out}
+#block-yui_3_17_2_1_1765199641025_6085:hover{opacity:1}
+#block-b7c6c1fa86123df49cbf{opacity:0;-webkit-transition:opacity .5s ease-in-out;-moz-transition:opacity .5s ease-in-out;transition:opacity .5s ease-in-out}
+#block-b7c6c1fa86123df49cbf:hover{opacity:1}
+#block-7d752553d2c1b5a68315{opacity:0;-webkit-transition:opacity .5s ease-in-out;-moz-transition:opacity .5s ease-in-out;transition:opacity .5s ease-in-out}
+#block-7d752553d2c1b5a68315:hover{opacity:1}
+#block-3ff3d8a93a300c97cfbf{opacity:0;-webkit-transition:opacity .5s ease-in-out;-moz-transition:opacity .5s ease-in-out;transition:opacity .5s ease-in-out}
+#block-3ff3d8a93a300c97cfbf:hover{opacity:1}
+#block-0f0f3813db1d1e5259ef{opacity:0;-webkit-transition:opacity .5s ease-in-out;-moz-transition:opacity .5s ease-in-out;transition:opacity .5s ease-in-out}
+#block-0f0f3813db1d1e5259ef:hover{opacity:1}
+#block-636666498bfbd969ad85{opacity:0;-webkit-transition:opacity .5s ease-in-out;-moz-transition:opacity .5s ease-in-out;transition:opacity .5s ease-in-out}
+#block-636666498bfbd969ad85:hover{opacity:1}
+#block-60098a25948acccaf8af{opacity:0;-webkit-transition:opacity .5s ease-in-out;-moz-transition:opacity .5s ease-in-out;transition:opacity .5s ease-in-out}
+#block-60098a25948acccaf8af:hover{opacity:1}
+#block-yui_3_17_2_1_1767638186230_5275{opacity:0;-webkit-transition:opacity .5s ease-in-out;-moz-transition:opacity .5s ease-in-out;transition:opacity .5s ease-in-out}
+#block-yui_3_17_2_1_1767638186230_5275:hover{opacity:1}
+#block-0871750b9a22224f8a21{opacity:0;-webkit-transition:opacity .5s ease-in-out;-moz-transition:opacity .5s ease-in-out;transition:opacity .5s ease-in-out}
+#block-0871750b9a22224f8a21:hover{opacity:1}
+#block-98165d99db0280bc8755{opacity:0;-webkit-transition:opacity .5s ease-in-out;-moz-transition:opacity .5s ease-in-out;transition:opacity .5s ease-in-out}
+#block-98165d99db0280bc8755:hover{opacity:1}
+#block-5379aadeb742992c4e0f{opacity:0;-webkit-transition:opacity .5s ease-in-out;-moz-transition:opacity .5s ease-in-out;transition:opacity .5s ease-in-out}
+#block-5379aadeb742992c4e0f:hover{opacity:1}
+#block-b49a4139ad6ed67d07cb{opacity:0;-webkit-transition:opacity .5s ease-in-out;-moz-transition:opacity .5s ease-in-out;transition:opacity .5s ease-in-out}
+#block-b49a4139ad6ed67d07cb:hover{opacity:1}
+.product-variants,.product-variants select,.sqs-site-style-form select{box-shadow:none !important}
+div.product-variants{border-color:#f8f3ea !important}
+.product-variants *{border-color:#f8f3ea !important}
+.sqs-add-to-cart-button,button.sqs-add-to-cart-button,.product-block button,.ProductItem button[type="submit"],input[type="submit"].sqs-add-to-cart-button{color:#f8f3ea !important;border:1px solid #f8f3ea !important}
+
+/* ---- Static-site additions ---- */
+/* Squarespace hides content until its scripts run; show it with a gentle CSS fade instead */
+.tweak-global-animations-enabled .content-wrapper,
+.tweak-global-animations-enabled [data-animation-role]{opacity:1 !important;transform:none !important;clip-path:none !important}
+@media (prefers-reduced-motion:no-preference){
+  .page-section .content-wrapper{animation:aegis-fade .9s ease both}
+}
+@keyframes aegis-fade{from{opacity:0}to{opacity:1}}
+footer.sections, #footer-sections{opacity:1 !important}
+/* scaled headings are sized by assets/js/aegis.js */
+.sqsrte-scaled-text-container{position:relative !important;left:auto !important;top:auto !important;width:100%;display:block;visibility:visible !important;opacity:1 !important}
+.sqsrte-scaled-text{position:static !important;left:auto !important;white-space:nowrap;display:inline-block;line-height:1}
+.sqsrte-scaled-text > *{font-size:inherit !important;margin:0 !important;line-height:1;white-space:nowrap !important}
+
+/* ---- Buy controls (replaces the Squarespace basket) ---- */
+.aegis-buy{margin:1.6em 0;display:flex;flex-direction:column;gap:.9em;max-width:420px;font-family:'Josefin light','Josefin Sans',sans-serif}
+.aegis-field{display:flex;flex-direction:column;gap:.35em}
+.aegis-field label{font-size:.85rem;letter-spacing:.02em}
+.aegis-field select{appearance:none;-webkit-appearance:none;background:transparent url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3E%3Cpath d='M1 1l5 5 5-5' fill='none' stroke='%23f8f3ea' stroke-width='1.2'/%3E%3C/svg%3E") no-repeat right 12px center;color:#f8f3ea;border:1px solid #f8f3ea;border-radius:0;padding:.75em 2.4em .65em .9em;font:inherit;font-size:.95rem}
+.aegis-field select option{color:#131b10}
+.aegis-buy-btn{display:block;text-align:center;border:1px solid #f8f3ea;color:#f8f3ea !important;padding:.95em 1.2em .85em;text-decoration:none !important;letter-spacing:.06em;transition:background .25s,color .25s}
+.aegis-buy-btn:hover,.aegis-buy-btn:focus-visible{background:#f8f3ea;color:#131b10 !important}
+.aegis-buy-msg{min-height:1em;font-size:.85rem;margin:0}
+.white .aegis-field select,.white .aegis-buy-btn,.light .aegis-field select,.light .aegis-buy-btn{border-color:currentColor;color:inherit !important}
+
+/* ---- Product detail gallery ---- */
+.aegis-product-gallery{display:flex;flex-direction:column;gap:12px}
+.aegis-product-gallery .apg-main img{width:100%;height:auto;display:block;aspect-ratio:4/5;object-fit:cover;cursor:zoom-in}
+.aegis-product-gallery .apg-thumbs{display:grid;grid-template-columns:repeat(auto-fill,minmax(64px,1fr));gap:8px}
+.aegis-product-gallery .apg-thumbs button{padding:0;border:1px solid transparent;background:none;cursor:pointer;opacity:.6;transition:opacity .2s}
+.aegis-product-gallery .apg-thumbs button.active,.aegis-product-gallery .apg-thumbs button:hover{opacity:1;border-color:#f8f3ea}
+.aegis-product-gallery .apg-thumbs img{width:100%;aspect-ratio:1;object-fit:cover;display:block}
+
+/* ---- Lightbox ---- */
+.aegis-lightbox{position:fixed;inset:0;z-index:9999;background:rgba(10,14,8,.95);display:none;align-items:center;justify-content:center}
+.aegis-lightbox.open{display:flex}
+.aegis-lightbox img{max-width:90vw;max-height:88vh;object-fit:contain}
+.aegis-lightbox button{position:absolute;background:none;border:0;color:#f8f3ea;font-size:2.6rem;cursor:pointer;padding:.3em .5em;line-height:1}
+.aegis-lightbox .lb-close{top:10px;right:14px}
+.aegis-lightbox .lb-prev{left:8px;top:50%;transform:translateY(-50%)}
+.aegis-lightbox .lb-next{right:8px;top:50%;transform:translateY(-50%)}
+
+/* ---- Enquiry form ---- */
+.aegis-form{display:flex;flex-direction:column;gap:1.1em;font-family:'Josefin light','Josefin Sans',sans-serif;color:inherit}
+.aegis-form fieldset{border:0;padding:0;margin:0;display:grid;grid-template-columns:1fr 1fr;gap:1em}
+.aegis-form legend{margin-bottom:.5em;font-size:.95rem}
+.aegis-form label{display:block;font-size:.85rem;margin-bottom:.35em}
+.aegis-form label span{opacity:.7}
+.aegis-form input,.aegis-form textarea{width:100%;box-sizing:border-box;background:transparent;border:1px solid currentColor;color:inherit;padding:.8em;font:inherit;border-radius:0}
+.aegis-form input:focus,.aegis-form textarea:focus{outline:1px solid currentColor;outline-offset:2px}
+.aegis-form button{align-self:flex-start;background:transparent;color:inherit;border:1px solid currentColor;padding:.9em 2.2em .8em;font:inherit;letter-spacing:.06em;cursor:pointer;transition:background .25s,color .25s}
+.aegis-form button:hover{background:#f8f3ea;color:#131b10}
+@media (max-width:600px){.aegis-form fieldset{grid-template-columns:1fr}}
+
+.aegis-ig{display:block;color:#f8f3ea}
+.sqs-svg-icon--wrapper{display:inline-flex;align-items:center;justify-content:center;background:none !important}
+/* header is faded in by Squarespace's script; show it straight away */
+.header{opacity:1 !important}
+.product-detail .product-meta{min-width:min(340px,100%)}
+/* Fix: the mobile menu on the old site showed cream text on a white panel. Use the site's dark green. */
+.header-menu-bg{background-color:rgb(19,27,16) !important}
+.header-menu-nav-item a{color:#f8f3ea !important}
+.header--menu-open .header .header-burger .top-bun,.header--menu-open .header .header-burger .patty,.header--menu-open .header .header-burger .bottom-bun{background-color:#f8f3ea !important}
+
+/* ---- Gallery grid (Squarespace laid this out with JavaScript) ---- */
+.gallery-grid-wrapper{display:grid !important;grid-template-columns:repeat(3,1fr);column-gap:6.15vw;row-gap:6.15vw}
+.gallery-grid-item-wrapper{opacity:1 !important;transform:none !important;position:relative;padding-bottom:75% !important;overflow:hidden}
+.gallery-grid-item-wrapper img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+@media (prefers-reduced-motion:no-preference){.gallery-grid-item-wrapper img{transition:transform .6s ease}.gallery-grid-item-wrapper:hover img{transform:scale(1.03)}}
+@media (max-width:767px){.gallery-grid-wrapper{grid-template-columns:repeat(2,1fr);column-gap:4vw;row-gap:4vw}}
